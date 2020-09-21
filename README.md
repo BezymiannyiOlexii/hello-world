@@ -1,2 +1,4 @@
 # hello-world
-Just first repository
+
+Hi, everyone!
+Its the first commit, and I hate coffee.
